@@ -4,4 +4,8 @@ change2
 issue1
 
 
-004
+00:wq
+
+
+stash1
+>>>>>>> Stashed changes
